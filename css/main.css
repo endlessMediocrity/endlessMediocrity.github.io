@@ -1,0 +1,34 @@
+.h-main{
+    font-family: Arial;
+    font-weight: lighter;
+}
+
+body {
+    font-family: Arial;
+    margin: 20px;
+}
+
+.main-text {
+    color: black;
+    font-family: Arial;
+}
+
+#text-in-b {
+    color: red;
+}
+
+div b {
+    background-color: bisque;
+    color: black;
+    margin: 10px;
+    font-family: Arial;
+}
+
+.div- {
+    margin: 1em 0em 3em 50em;
+}
+
+.section-news {
+    margin: 5em 0 0 20em;
+    text-align: center;
+}
